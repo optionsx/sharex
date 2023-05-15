@@ -1,0 +1,13 @@
+{
+    "Version": "15.0.0",
+    "Name": "FileDitch",
+    "DestinationType": "ImageUploader, TextUploader, FileUploader",
+    "RequestMethod": "POST",
+    "RequestURL": "https://up1.fileditch.com/upload.php",
+    "Body": "MultipartFormData",
+    "FileFormName": "files[]",
+    "URL": "https://stolen.shoes/embedVideo/?video={json:files[0].url}",
+    "ThumbnailURL": null,
+    "DeletionURL": null,
+    "ErrorMessage": null
+}

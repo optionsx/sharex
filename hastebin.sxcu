@@ -1,0 +1,12 @@
+{
+    "Version": "15.0.0",
+    "Name": "hatebin",
+    "DestinationType": "TextUploader",
+    "RequestMethod": "POST",
+    "RequestURL": "https://hastebin.skyra.pw/documents",
+    "Body": "Binary",
+    "URL": "https://hastebin.skyra.pw/{json:key}",
+    "ThumbnailURL": null,
+    "DeletionURL": null,
+    "ErrorMessage": null
+}
