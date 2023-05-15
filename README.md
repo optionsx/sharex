@@ -15,15 +15,15 @@
 - file/image/video hosting
 - contains stolen.shoes prefix, you can remove that if you won't use it with discord.
 
-#### [catbox](https://catbox.moe/)
-
-- 200MB file size limit
-- permanent storage
-- file/image/video hosting
-
 #### [pomf.lain.la](https://pomf.lain.la/)
 
 - 1GB file size limit
+- permanent storage
+- file/image/video hosting
+
+#### [catbox](https://catbox.moe/)
+
+- 200MB file size limit
 - permanent storage
 - file/image/video hosting
 
